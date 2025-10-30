@@ -1,33 +1,33 @@
-# 🧠 TP Programación Funcional - Julián Aciar
+# TP Programación Funcional - Julián Aciar
 
-## 📚 Descripción
+## Descripción
 Trabajo práctico realizado en **Java**, aplicando el paradigma de **programación funcional** con **Streams, Lambdas y Collectors**.
 
 El proyecto contiene varios casos prácticos que procesan listas de objetos (alumnos, productos, libros y empleados) usando operaciones funcionales.
 
 ---
 
-## 💡 Casos prácticos
+## Casos prácticos
 
-### 1️⃣ Alumnos
+### Alumnos
 - Nombres de alumnos aprobados (nota ≥ 7) en mayúsculas y ordenados.
 - Promedio general de notas.
 - Agrupar por curso (`Collectors.groupingBy`).
 - Obtener los 3 mejores promedios.
 
-### 2️⃣ Productos
+### Productos
 - Productos con precio > 100, ordenados por precio descendente.
 - Agrupar por categoría y calcular stock total.
 - Generar cadena con nombre y precio (`map + joining`).
 - Calcular precio promedio general y por categoría.
 
-### 3️⃣ Libros
+### Libros
 - Títulos con más de 300 páginas, ordenados alfabéticamente.
 - Promedio de páginas.
 - Agrupar por autor y contar libros.
 - Libro más caro.
 
-### 4️⃣ Empleados
+### Empleados
 - Empleados con salario > 2000, ordenados por salario.
 - Promedio de salarios.
 - Agrupar por departamento y sumar salarios.
@@ -35,7 +35,7 @@ El proyecto contiene varios casos prácticos que procesan listas de objetos (alu
 
 ---
 
-## ⚙️ Tecnologías utilizadas
+## Tecnologías utilizadas
 - Java 17
 - Paradigma Funcional
 - API Streams
@@ -44,7 +44,7 @@ El proyecto contiene varios casos prácticos que procesan listas de objetos (alu
 
 ---
 
-## 📋 Conceptos aplicados
+## Conceptos aplicados
 
 | Concepto | Aplicación en el proyecto |
 |-----------|---------------------------|
@@ -56,7 +56,7 @@ El proyecto contiene varios casos prácticos que procesan listas de objetos (alu
 
 ---
 
-## 👨‍💻 Autor
+## Autor
 **Julián Aciar**  
 3° Año - Ingeniería en Sistemas  
 Materia: *Desarrollo de Software III*
